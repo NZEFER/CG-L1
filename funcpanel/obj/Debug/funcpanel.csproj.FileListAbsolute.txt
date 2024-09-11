@@ -1,0 +1,9 @@
+C:\Users\Эмулик\source\repos\funcpanel\obj\Debug\funcpanel.csproj.AssemblyReference.cache
+C:\Users\Эмулик\source\repos\funcpanel\obj\Debug\funcpanel.Properties.Resources.resources
+C:\Users\Эмулик\source\repos\funcpanel\obj\Debug\funcpanel.csproj.GenerateResource.cache
+C:\Users\Эмулик\source\repos\funcpanel\obj\Debug\funcpanel.csproj.CoreCompileInputs.cache
+C:\Users\Эмулик\source\repos\funcpanel\bin\Debug\funcpanel.exe.config
+C:\Users\Эмулик\source\repos\funcpanel\bin\Debug\funcpanel.exe
+C:\Users\Эмулик\source\repos\funcpanel\bin\Debug\funcpanel.pdb
+C:\Users\Эмулик\source\repos\funcpanel\obj\Debug\funcpanel.exe
+C:\Users\Эмулик\source\repos\funcpanel\obj\Debug\funcpanel.pdb
